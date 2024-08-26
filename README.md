@@ -1,1 +1,1 @@
-# GITFUND
+print("Hello, kiven aldave!")
